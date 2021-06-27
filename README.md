@@ -4,7 +4,7 @@
 
 - 🎓 I'm a CS student at UCLA, class of 2023.
 - 🦄 I'm the co-founder and editor of startup newsletter [Unicorner](https://unicorner.news).
-- 🔵 I'm the co-founder of [SpotClub](https://spotclub.live).
+- 🔵 I'm the co-founder and co-host of [SpotClub](https://spotclub.live).
 - 🔨 I'm currently working on a new podcast!
 
 ### Skills:
